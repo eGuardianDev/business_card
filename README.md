@@ -11,7 +11,7 @@ also:
 - Email
 
 ## front part
-![card front] (./Files/exports/frontOfCardExport2.png)
+![card front](./Files/exports/frontOfCardExport2.png)
 
 ## back part
-![card front] (./Files/exports/backOfCardExport3.png)
+![card front](./Files/exports/backOfCardExport3.png)
